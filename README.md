@@ -1,3 +1,2 @@
 # .github
-
-# QU4R7Z profile
+QU4R7Z profile
