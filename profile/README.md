@@ -17,6 +17,6 @@
 ### Projects
 | Name | Description | Developer(s) |
 |:----|:----|:----|
-| [🏗️&nbsp;**Daisy** (2022-)](https://github.com/QU4R7Z/Daisy) | Wallpaper Engine<br/> | [**@QU4R7Zl.**](https://github.com/QU4R7Z) |
+| [🏗️&nbsp;**Daisy** (2022-)](https://github.com/QU4R7Z/Daisy) | Wallpaper Engine<br/> | [**@QU4R7Z.**](https://github.com/QU4R7Z) |
 
 ### Contacts
