@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### Favorite Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+### Projects
+| Name | Description | Developer(s) |
+|:----|:----|:----|
+| [🏗️&nbsp;**Daisy** (2022-)](https://github.com/QU4R7Z/Daisy) | Wallpaper Engine<br/> | [**@QU4R7Zl.**](https://github.com/QU4R7Z) |
+
+### Contacts
