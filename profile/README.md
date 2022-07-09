@@ -17,7 +17,6 @@
 ### Projects
 | Name | Description | Developer(s) |
 |:----|:----|:----|
-| [🏗️&nbsp;**Daisy** (2022-)](https://github.com/QU4R7Z/Daisy) | Wallpaper Engine<br/> | [**@QU4R7Z**](https://github.com/QU4R7Z) |
-| [🏗️&nbsp;**Lotus** (2022-)](https://github.com/QU4R7Z/Lotus) | File converter<br/> | [**@QU4R7Z**](https://github.com/QU4R7Z) |
+| [🏗️&nbsp;**qu4r7z** (2022-)](https://github.com/QU4R7Z/qu4r7z) | Quarcism<br/> | [**@QU4R7Z**](https://github.com/QU4R7Z) |
 
 ### Contacts
